@@ -1,0 +1,9 @@
+{
+    "Conventions": "CF-1.7",
+    "GRIB_centre": "kwbc",
+    "GRIB_centreDescription": "US National Weather Service - NCEP",
+    "GRIB_edition": 2,
+    "GRIB_subCentre": 0,
+    "history": "2024-10-29T20:32 GRIB to CDM+CF via cfgrib-0.9.14.1/ecCodes-2.38.0 with {\"source\": \"../../../../../network/group/aopp/predict/TIP022_NATH_GFSAIMOD/grib/gfs.20231231gfs.t00z.pgrb2.0p25.f030\", \"filter_by_keys\": {\"typeOfLevel\": \"surface\", \"name\": \"Surface pressure\"}, \"encode_cf\": [\"parameter\", \"time\", \"geography\", \"vertical\"]}",
+    "institution": "US National Weather Service - NCEP"
+}
